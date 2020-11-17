@@ -5,7 +5,7 @@ Date: November 17, 2020
 
 Data file containing all County Presidential Election Returns 2000-2016 downloaded from MIT Election Data Science Lab: countypres_2000-2016.csv
 
-R Markdown file: FinalProjectDocumentation.rmd
+R Markdown file: Final_Project_SRIVASTAVA.rmd
 
 Updates:
 
